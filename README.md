@@ -28,7 +28,7 @@ You should keep these lines of Javascript as low as possible on the page because
 
 ### Step 3
 
-Here’s the code I use for the list:
+Here’s the css code to use for the list:
 ```
 #twitter_update_list {
 	font-size: 13px;
