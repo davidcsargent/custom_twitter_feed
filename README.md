@@ -17,7 +17,7 @@ Note: The `<li>Twitter feed loading</li>` is not a part of the original code Twi
 
 ### Step 2
 
-Second, you’ll need to place the following lines of Javascript as close to the </body> tag as possible.
+Second, you’ll need to place the following lines of Javascript as close to the `</body>` tag as possible.
 
 ```
 <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
