@@ -13,7 +13,7 @@ First, place the following code where you want the list to show up:
 <ul id="twitter_update_list"><li>Twitter feed loading</li></ul>
 ```
 
-Note: The <li>Twitter feed loading</li> is not a part of the original code Twitter provided, but it’s required to make the HTML validate. It can also provide a useful message while the feed is loading, as it could take a few seconds on a slow day.
+Note: The `<li>Twitter feed loading</li>` is not a part of the original code Twitter provided, but it’s required to make the HTML validate. It can also provide a useful message while the feed is loading, as it could take a few seconds on a slow day.
 
 ### Step 2
 
