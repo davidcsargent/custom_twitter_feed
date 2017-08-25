@@ -49,9 +49,9 @@ Here’s the code I use for the list:
 	}
 ```
 
-The first line selects the entire list. It sets the font size, line height, and makes sure no bullet points show up.
-The second line makes a small 2×1 image repeat below each list item as a sort of divider. The padding sets the space between the tweet and the top edge of the divider. The margin sets the space between the bottom edge of the divider and the next tweet.
-The third line sets the color of the tweet, including links, and makes sure no lines show up below links.
-The last line sets the color of the “time ago” link.
+1. The first line selects the entire list. It sets the font size, line height, and makes sure no bullet points show up.
+2. The second line makes a small 2×1 image repeat below each list item as a sort of divider. The padding sets the space between the tweet and the top edge of the divider. The margin sets the space between the bottom edge of the divider and the next tweet.
+3. The third line sets the color of the tweet, including links, and makes sure no lines show up below links.
+4. The last line sets the color of the “time ago” link.
 
 *Initial source and credit to [IsItWp](http://www.isitwp.com/custom-twitter-widget-tutorial/)*
